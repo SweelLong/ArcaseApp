@@ -10,4 +10,4 @@ Arcase感谢以下项目
 - [ArcapiGenerator](https://github.com/SweelLong/ArcapiGenerator-public)
 - [Arcmodwiki](https://github.com/FishiaTee/arcmodwiki)
   
-Copyright 2025 © Arcase
+Copyright © 2025 by NulCorePivot(Arcase)
