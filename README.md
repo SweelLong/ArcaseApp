@@ -1,5 +1,5 @@
 # ArcaseApp
-一个缝合ArcaseBot、ArcaseWeb以及一些配合服务端更新的实用脚本而成的整合项目。
+一个缝合ArcaseBot、ArcaseWeb以及一些配合服务端更新的实用脚本而成的一键全启动脚本项目。
 
 - 基于[Arcaea-server](https://github.com/Lost-MSth/Arcaea-server)项目
 - ArcaseBot部分以[ArcaeaServerBot](https://github.com/SweelLong/ArcaeaServerBot)为基础重构代码
