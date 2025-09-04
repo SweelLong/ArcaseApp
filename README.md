@@ -1,4 +1,4 @@
-# ArcaseApp
+# [ArcaseApp](https://github.com/SweelLong/ArcaseApp-beta)
 一个缝合ArcaseBot、ArcaseWeb以及一些配合服务端更新的实用脚本而成的一键全启动脚本项目。
 
 - 基于[Arcaea-server](https://github.com/Lost-MSth/Arcaea-server)项目
